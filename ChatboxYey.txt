@@ -5,8 +5,15 @@ Maganda ka rin po :3
 Hahahaha where is philipp?
 
 
+<<<<<<< HEAD
+Right right
+=======
 Wassaaaaaaaaaaaaaaaap??
 
 Wala talaga..
+<<<<<<< HEAD
 
 Try lang po.. #newBranch
+=======
+>>>>>>> 2aa248513ae55d1e21b926f9ec8fbc0cb8b1b1db
+>>>>>>> 67171783bc7cc4d100243c0937791c5a95f5d891
