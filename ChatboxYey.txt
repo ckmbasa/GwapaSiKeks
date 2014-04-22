@@ -16,4 +16,13 @@ Wala talaga..
 Try lang po.. #newBranch
 =======
 >>>>>>> 2aa248513ae55d1e21b926f9ec8fbc0cb8b1b1db
+<<<<<<< HEAD
 >>>>>>> 67171783bc7cc4d100243c0937791c5a95f5d891
+=======
+
+
+what to do test
+
+
+Hi po :3
+>>>>>>> bd93edaf3598300d767b27173da36df297001f69
